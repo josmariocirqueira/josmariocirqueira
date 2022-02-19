@@ -33,7 +33,7 @@
 ##
 
 <div>
-    <a href="https://www.linkedin.com/in/luiz-saulo-sousa-7b210721a/" target="_blank"><img
+    <a href="https://www.linkedin.com/in/josmario-cirqueira-dos-santos-046b66217" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
 </div>
