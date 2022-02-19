@@ -5,14 +5,17 @@
 -  Gosto de ler, estudar e
 -  Praticar esportes.
  
-<div align="center">
-    <a href="https://github.com/josmariocirqueira">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=josmariocirqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=josmariocirqueira&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
+<div align="center"><a href="https://github.com/luis-gustavoj">
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=luis-gustavoj&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-gustavoj&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+</a>
+</div><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div style="display: inline_block"><br>
     <img align="center" alt="Josmario-git" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
