@@ -7,8 +7,8 @@
  
  ### De uma olhada nas minhas estísticas
  
-![josmariocirqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+![josmariocirqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=josmariocirqueira&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josmariocirqueira&layout=compact)](https://github.com/josmariocirqueira/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
  <div style="display: inline_block"><br>
