@@ -1,14 +1,14 @@
 ## Olá, Bem-vindo ao meu perfil
 ### Sobre mim
-- Sou Desenvolvedor Front-end
-- Sou apaixonado por tecnologia, amo codar
--  amo ler, amo estudar e
--  compartilhar aprendizado.
+- Sou Desenvolvedor Front-end,
+-  Sou Apaixonado por tecnologia, amo codar,
+-  Gosto de ler, estudar e
+-  Praticar esportes.
  
  ### De uma olhada nas minhas estísticas
  
 ![josmariocirqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=josmariocirqueira&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josmariocirqueira&layout=compact&langs_count=7&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
  <div style="display: inline_block"><br>
