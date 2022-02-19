@@ -6,7 +6,6 @@
 -  Praticar esportes.
  
  ### De uma olhada nas minhas estísticas
- 
 ![josmariocirqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=josmariocirqueira&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josmariocirqueira&layout=compact&langs_count=7&theme=radical)
 
