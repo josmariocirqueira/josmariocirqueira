@@ -9,16 +9,10 @@
 
 </div>
 <div align="justify">
-👋👋 Helo! I'm happy to see you here, welcome to my GitHub.
-My name is Wiris Josmario Cirqueira, i have nineteen years old, natural from Nova Venécia, living São Mateus-ES, I'm studying Analyze and Development of Systems. My study focus is DevOps, tools of infrastruture and cloud.
+👋👋 Olá estou feliz em vê-lo aqui, bem vindo ao meu GitHub.
+Meu nome é Josmario Cirqueira, sou Desenvolvedor Front-end, tenho 20 anos e moro em São Mateus-ES.
+<br>
 
-- 🌱 I’m currently learning : Docker, Ansible and Go
-- 👯 I’m looking to collaborate on open source projetos
-- 🤔 I’m looking for help with Go and Ansible
-- 💬 Ask me about anything you want
-- 📫 How to reach <a href="mailto:rafaeljwerneck43@gmail.com">me</a>
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: this one I don't even know
 
 </div>
 
