@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo</h1>
+<h1 align="center">Bem-vindo(a)</h1>
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 </div>
 <div align="justify">
-👋👋 Olá estou feliz em vê-lo aqui, bem vindo ao meu GitHub.
+👋👋 Olá estou feliz em vê-lo(a) aqui, bem vindo ao meu GitHub.
 Meu nome é Josmario Cirqueira, sou Desenvolvedor Front-end, tenho 20 anos e moro em São Mateus-ES.
 <br>
 
@@ -40,5 +40,5 @@ Meu nome é Josmario Cirqueira, sou Desenvolvedor Front-end, tenho 20 anos e mor
 <h2 align="center">Metrics</h2>
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=josmariocirqueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josmariocirqueira&layout=compact&langs_count=16&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josmariocirqueira&layout=compact&langs_count=16&theme=radical"/>
 </p>
